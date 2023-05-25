@@ -1,0 +1,11 @@
+Text to cipher: ala ma kota
+Text to cipher ascii: [97, 108, 97, 32, 109, 97, 32, 107, 111, 116, 97]
+Generated data: p = 797, q = 881, e = 717
+Generated keys: 
+			pub key (702157, 717), 
+			priv key (702157, 265733)
+Blocks of text: [27745, 8289, 24941, 27424, 29807, 97]
+Ciphered blocks:  [63222, 391257, 126403, 627646, 408531, 537713]
+Deciphered blocks: [27745, 8289, 24941, 27424, 29807, 97]
+unmerged ciphered blocks: [97, 108, 97, 32, 109, 97, 32, 107, 111, 116, 97]
+Deciphered text: ala ma kota
